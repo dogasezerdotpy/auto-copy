@@ -1,0 +1,10 @@
+C:\Users\dennys\source\repos\copyoverit\copyoverit\bin\Debug\copyoverit.exe.config
+C:\Users\dennys\source\repos\copyoverit\copyoverit\bin\Debug\copyoverit.exe
+C:\Users\dennys\source\repos\copyoverit\copyoverit\bin\Debug\copyoverit.pdb
+C:\Users\dennys\source\repos\copyoverit\copyoverit\obj\Debug\copyoverit.csprojAssemblyReference.cache
+C:\Users\dennys\source\repos\copyoverit\copyoverit\obj\Debug\copyoverit.Form1.resources
+C:\Users\dennys\source\repos\copyoverit\copyoverit\obj\Debug\copyoverit.Properties.Resources.resources
+C:\Users\dennys\source\repos\copyoverit\copyoverit\obj\Debug\copyoverit.csproj.GenerateResource.cache
+C:\Users\dennys\source\repos\copyoverit\copyoverit\obj\Debug\copyoverit.csproj.CoreCompileInputs.cache
+C:\Users\dennys\source\repos\copyoverit\copyoverit\obj\Debug\copyoverit.exe
+C:\Users\dennys\source\repos\copyoverit\copyoverit\obj\Debug\copyoverit.pdb
