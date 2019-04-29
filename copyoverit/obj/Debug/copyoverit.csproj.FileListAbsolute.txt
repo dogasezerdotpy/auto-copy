@@ -8,3 +8,4 @@ C:\Users\dennys\source\repos\copyoverit\copyoverit\obj\Debug\copyoverit.csproj.G
 C:\Users\dennys\source\repos\copyoverit\copyoverit\obj\Debug\copyoverit.csproj.CoreCompileInputs.cache
 C:\Users\dennys\source\repos\copyoverit\copyoverit\obj\Debug\copyoverit.exe
 C:\Users\dennys\source\repos\copyoverit\copyoverit\obj\Debug\copyoverit.pdb
+C:\Users\dennys\source\repos\copyoverit\copyoverit\obj\Debug\copyoverit.csproj.ResolveComReference.cache
